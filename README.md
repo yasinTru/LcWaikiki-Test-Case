@@ -37,6 +37,6 @@ Bu Senaryoda kullanıcının siteye üye olmaya çalışırken yaşayacağı **b
 
 Bu Senaryoda kullanıcının indirimli ürünü sepete ekleme ve sepetinde bazı kontrolleri yapma durumu ele alınmıştır.
 
->Senaryo 2'ye ait ekran resmi:
+>Senaryo 3'ye ait ekran resmi:
 
 ![senaryo_3](https://github.com/yasinTru/LcWaikiki-Test-Case/blob/master/testCaseImages/Senaryo3.PNG)
